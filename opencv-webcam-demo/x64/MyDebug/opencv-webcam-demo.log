@@ -1,0 +1,122 @@
+﻿  Visualizer.cpp
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Unknown compiler version - please run the configure tests and report the results
+f:\cpp-sdk-samples-emotion-sdk\packages\boost.1.59.0.0\lib\native\include\boost\format\alt_sstream_impl.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(80): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(82): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(85): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(88): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(92): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(214): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(215): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(215): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(223): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(224): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(224): warning C4244: 'initializing': conversion from 'const float' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(225): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(225): warning C4244: 'initializing': conversion from 'const float' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(226): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(226): warning C4244: 'initializing': conversion from 'const float' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(227): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(227): warning C4244: 'initializing': conversion from 'const float' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(232): warning C4305: '=': truncation from 'double' to 'float'
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(318): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(327): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(328): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(330): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(330): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(331): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(331): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(339): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(339): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(340): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(340): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(341): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\common\visualizer.cpp(341): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  opencv-webcam-demo.cpp
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\code\opencv\build\include\opencv2\core\internal.hpp(141): warning C4005: 'CV_AVX': macro redefinition
+  f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\cvdef.h(257): note: see previous definition of 'CV_AVX'
+  Unknown compiler version - please run the configure tests and report the results
+f:\cpp-sdk-samples-emotion-sdk\common\plottingimagelistener.hpp(95): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\opencv-webcam-demo\opencv-webcam-demo.cpp(232): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\opencv-webcam-demo\opencv-webcam-demo.cpp(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\opencv-webcam-demo\opencv-webcam-demo.cpp(234): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+d:\vs\vc\tools\msvc\14.14.26428\include\memory(1772): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  d:\vs\vc\tools\msvc\14.14.26428\include\memory(1837): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<int&,int&,unsigned int&,affdex::FaceDetectorMode>(int &,int &,unsigned int &,affdex::FaceDetectorMode &&)' being compiled
+          with
+          [
+              _Ty=affdex::FrameDetector
+          ]
+  d:\vs\vc\tools\msvc\14.14.26428\include\memory(1837): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<int&,int&,unsigned int&,affdex::FaceDetectorMode>(int &,int &,unsigned int &,affdex::FaceDetectorMode &&)' being compiled
+          with
+          [
+              _Ty=affdex::FrameDetector
+          ]
+  f:\cpp-sdk-samples-emotion-sdk\opencv-webcam-demo\opencv-webcam-demo.cpp(127): note: see reference to function template instantiation 'std::shared_ptr<affdex::FrameDetector> std::make_shared<affdex::FrameDetector,int&,int&,unsigned int&,affdex::FaceDetectorMode>(int &,int &,unsigned int &,affdex::FaceDetectorMode &&)' being compiled
+  Generating code
+  All 2756 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  opencv-webcam-demo.vcxproj -> F:\cpp-sdk-samples-emotion-sdk\x64\MyDebug\opencv-webcam-demo.exe
+  C:\Program Files\Affectiva\AffdexSDK\bin\release\affdex-native.dll
+  复制了 1 个文件
+  C:\Program Files\Affectiva\AffdexSDK\data\affdexface-sdk-9-data.zip
+  C:\Program Files\Affectiva\AffdexSDK\data\face_model_3d.bin
+  C:\Program Files\Affectiva\AffdexSDK\data\AR_pack\12_classAR_raw_AlexArchv2.model
+  C:\Program Files\Affectiva\AffdexSDK\data\AR_pack\DL_mean_image.bmp
+  C:\Program Files\Affectiva\AffdexSDK\data\AR_pack\zf4_small_2100000.model
+  C:\Program Files\Affectiva\AffdexSDK\data\AR_pack\zf4_tiny_3900000.model
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\agect_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au01ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au05ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au07ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au14ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au15ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au17ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au18ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au20ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au24ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au26ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\au28ct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\disgustct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\ethnicityct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\eye_closurect_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\genderct_raw_linear_largeface.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\glassesct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\smirkct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\tongue_outct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\CT_pack\winkct_raw_linear.pbin
+  C:\Program Files\Affectiva\AffdexSDK\data\haarcascade\004_lbp_15stage.xml
+  C:\Program Files\Affectiva\AffdexSDK\data\haarcascade\haarcascade_frontalface_alt2.xml
+  C:\Program Files\Affectiva\AffdexSDK\data\noctali0.83\classifier_22.arc
+  C:\Program Files\Affectiva\AffdexSDK\data\noctali0.83\classifier_5.arc
+  C:\Program Files\Affectiva\AffdexSDK\data\noctali0.83\Detector.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\noctali0.83\pca_lr_12.arc
+  C:\Program Files\Affectiva\AffdexSDK\data\noctali0.83\pca_lr_15.arc
+  C:\Program Files\Affectiva\AffdexSDK\data\noctali0.83\pca_lr_18.arc
+  C:\Program Files\Affectiva\AffdexSDK\data\noctali0.83\pca_lr_9.arc
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\aliases\alias.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\emotion\emoji.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\emotion\emotion.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\postprocess\causal.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\postprocess\static.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\raw\linear.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\raw\nonlinear.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\tracker\default.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\tracker\facedet_0.3.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\tracker\facedet_0.4.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\tracker\multi_noctali0.83.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\tracker\multi_noctali0.84.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\tracker\multi_noctali0.84_landmark.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\tracker\noctali0.81.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\tracker\single_noctali0.83.conf
+  C:\Program Files\Affectiva\AffdexSDK\data\production_config\tracker\single_noctali0.83_emoto.conf
+  复制了 51 个文件

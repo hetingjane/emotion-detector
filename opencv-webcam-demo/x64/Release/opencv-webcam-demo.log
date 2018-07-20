@@ -1,0 +1,32 @@
+﻿  opencv-webcam-demo.cpp
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\code\opencv\build\include\opencv2\core\internal.hpp(141): warning C4005: 'CV_AVX': macro redefinition
+  f:\cpp-sdk-samples-emotion-sdk\packages\opencv3.1.1.0\build\native\include\opencv2\core\cvdef.h(257): note: see previous definition of 'CV_AVX'
+  Unknown compiler version - please run the configure tests and report the results
+f:\cpp-sdk-samples-emotion-sdk\packages\boost.1.59.0.0\lib\native\include\boost\format\alt_sstream_impl.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\cpp-sdk-samples-emotion-sdk\common\plottingimagelistener.hpp(95): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\opencv-webcam-demo\opencv-webcam-demo.cpp(177): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\opencv-webcam-demo\opencv-webcam-demo.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\cpp-sdk-samples-emotion-sdk\opencv-webcam-demo\opencv-webcam-demo.cpp(179): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+d:\vs\vc\tools\msvc\14.14.26428\include\memory(1772): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  d:\vs\vc\tools\msvc\14.14.26428\include\memory(1837): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<int&,int&,unsigned int&,affdex::FaceDetectorMode>(int &,int &,unsigned int &,affdex::FaceDetectorMode &&)' being compiled
+          with
+          [
+              _Ty=affdex::FrameDetector
+          ]
+  d:\vs\vc\tools\msvc\14.14.26428\include\memory(1837): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<int&,int&,unsigned int&,affdex::FaceDetectorMode>(int &,int &,unsigned int &,affdex::FaceDetectorMode &&)' being compiled
+          with
+          [
+              _Ty=affdex::FrameDetector
+          ]
+  f:\cpp-sdk-samples-emotion-sdk\opencv-webcam-demo\opencv-webcam-demo.cpp(126): note: see reference to function template instantiation 'std::shared_ptr<affdex::FrameDetector> std::make_shared<affdex::FrameDetector,int&,int&,unsigned int&,affdex::FaceDetectorMode>(int &,int &,unsigned int &,affdex::FaceDetectorMode &&)' being compiled
+  Generating code
+  1 of 2849 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  opencv-webcam-demo.vcxproj -> F:\cpp-sdk-samples-emotion-sdk\x64\Release\opencv-webcam-demo.exe
+  复制了 0 个文件
+  复制了 0 个文件

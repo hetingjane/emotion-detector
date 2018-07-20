@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv-webcam-demo", "opencv-webcam-demo\opencv-webcam-demo.vcxproj", "{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "video-demo", "video-demo\video-demo.vcxproj", "{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		MyDebug|x64 = MyDebug|x64
+		MyDebug|x86 = MyDebug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.Debug|x64.ActiveCfg = Release|x64
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.Debug|x64.Build.0 = Release|x64
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.Debug|x86.ActiveCfg = Release|x64
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.Debug|x86.Build.0 = Release|x64
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.MyDebug|x64.ActiveCfg = MyDebug|x64
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.MyDebug|x64.Build.0 = MyDebug|x64
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.MyDebug|x86.ActiveCfg = MyDebug|x64
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.Release|x64.ActiveCfg = Release|x64
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.Release|x64.Build.0 = Release|x64
+		{8DCDC209-C25D-4C61-B2AC-2FBA1775DD6B}.Release|x86.ActiveCfg = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.Debug|x64.ActiveCfg = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.Debug|x64.Build.0 = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.Debug|x86.ActiveCfg = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.Debug|x86.Build.0 = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.MyDebug|x64.ActiveCfg = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.MyDebug|x64.Build.0 = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.MyDebug|x86.ActiveCfg = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.MyDebug|x86.Build.0 = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.Release|x64.ActiveCfg = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.Release|x64.Build.0 = Release|x64
+		{5D5E4401-09DE-40D3-9E29-AFC4F2EF2C80}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8660D5C0-30E2-4CC9-B8E1-345B4A0CA161}
+	EndGlobalSection
+EndGlobal
