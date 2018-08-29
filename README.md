@@ -1,5 +1,5 @@
-# Sample Apps for Affdex SDK for Windows and Linux (contains server and client)
-
+# Modified based on the Affectiva windows SDK, analyzing real-time video stream (contains server and client)
+# Below is the official README
 Welcome to our repository on GitHub! Here you will find example code to get you started with our Affdex Linux SDK 4.0.0, Affdex Windows SDK 3.4 and begin emotion-enabling you own app! Documentation for the SDKs is available on the <a href=http://developer.affectiva.com/>Affectiva's Developer Portal</a>.
 
 Build Status
